@@ -1,16 +1,3 @@
 fastapi
 uvicorn
-python-dotenv
-aiohttp
-numpy
-pydantic
-beautifulsoup4
-html2text
-tqdm
-markdown
-markdownify
-openai
-python-multipart
-setuptools
-chromadb
-playwright
+
