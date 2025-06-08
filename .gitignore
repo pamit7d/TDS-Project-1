@@ -7,12 +7,15 @@ __pycache__/
 # API secrets
 .env
 
-# SQLite DB (large, private, already generated)
-knowledge_base.db
+# # SQLite DB (large, private, already generated)
+# knowledge_base.db
 
 # Scraped data (optional)
 downloaded_threads/
 markdown_files/
+
+#Ignore preprocess.py file
+preprocess.py
 
 # Playwright auth
 auth.json
