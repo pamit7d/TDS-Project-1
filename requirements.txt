@@ -12,3 +12,5 @@ markdownify
 openai
 python-multipart
 setuptools
+chromadb
+playwright
