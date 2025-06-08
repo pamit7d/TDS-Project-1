@@ -10,7 +10,5 @@ tqdm
 markdown
 markdownify
 openai
-playwright
 python-multipart
 setuptools
-chromadb
